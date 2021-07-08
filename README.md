@@ -17,7 +17,7 @@ flixster is an app that allows users to browse movies from the [The Movie Databa
 ### App Walkthrough GIF
 Add the URL to your animated app walkthough `gif` in the image tag below, `https://imgur.com/a/HW3RmDi`
 Walkthrough: 'https://imgur.com/a/HW3RmDi'
-![Alt Text](https://imgur.com/a/HW3RmDi.gif)
+![Alt Text](https://imgur.com/a/HW3RmDi.giphy.gif)
 
 ### Notes
 ## Challenges
