@@ -22,3 +22,4 @@ Walkthrough: 'https://imgur.com/a/HW3RmDi'
 ### Notes
 ## Challenges
 - Installing pod
+- Making sure the gif actually renders and animates when viewing this ReadMe. The link works fine.
