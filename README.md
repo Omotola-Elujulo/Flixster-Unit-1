@@ -15,6 +15,7 @@ flixster is an app that allows users to browse movies from the [The Movie Databa
 - [x] (3pts) User can view the movie poster image for each movie.
 
 ### App Walkthrough GIF
+Add the URL to your animated app walkthough `gif` in the image tag below, `https://imgur.com/a/HW3RmDi`
 Walkthrough: 'https://imgur.com/a/HW3RmDi'
 
 ### Notes
