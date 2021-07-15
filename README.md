@@ -23,3 +23,21 @@ Walkthrough: 'https://imgur.com/a/HW3RmDi'
 ## Challenges
 - Installing pod
 - Making sure the gif actually renders and animates when viewing this ReadMe. The link works fine.
+
+
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+
+### App Part 2 Walkthrough GIF
+<img src="https://imgur.com/GMyMlyU" width=250><br>
+
+### Notes
+- Build Error: Class _TtC9Alamofire7Session being implemented twice upon runnin the code
+- Build errors when trying to implement the movie details for the grid(collection) view
+- Making sure the gif actually renders and animates when viewing this ReadMe. The link works fine.
