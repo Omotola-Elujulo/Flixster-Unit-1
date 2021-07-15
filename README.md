@@ -35,7 +35,7 @@ Walkthrough: 'https://imgur.com/a/HW3RmDi'
 
 
 ### App Part 2 Walkthrough GIF
-<img src="https://imgur.com/GMyMlyU" width=250><br>
+<img src="https://imgur.com/GMyMlyU.gif" width=250><br>
 
 ### Notes
 - Build Error: Class _TtC9Alamofire7Session being implemented twice upon runnin the code
