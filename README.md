@@ -41,4 +41,3 @@ Walkthrough: 'https://media.giphy.com/media/DkafqmYSJfwF1KApSS/giphy.gif'
 ### Notes
 - Build Error: Class _TtC9Alamofire7Session being implemented twice upon runnin the code
 - Build errors when trying to implement the movie details for the grid(collection) view
-- Making sure the gif actually renders and animates when viewing this ReadMe. The link works fine.
